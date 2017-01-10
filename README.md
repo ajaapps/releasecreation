@@ -28,5 +28,5 @@ following steps can be used to create a release on github:
 1. locally edit and commit to master branch
 2. do a last commit, bumping the version number in the source code
 3. create a lightweight tag `git tag v1.19`
-4. push the commits and the tag to remote: `git push ; git push v1.19`
+4. push the commits and the tag to remote: `git push ; git push origin v1.19`
 
