@@ -1,6 +1,7 @@
 # releasecreation
 
 'releasecreation' is a temporary github repository to test release creation workflows.
+Latest release is version v1.0.
 
 We specifically would like to see if the procedure, offered by the
 github web interface, generates a lightweight git tag.  The procedure
